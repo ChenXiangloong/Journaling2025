@@ -1,3 +1,6 @@
-title: Nov 2025
-author: Shannon Chen
-language: en
+title:
+- type: subtitle
+  text: Nov 2025
+creator:
+- role: author
+  text: Shannon Chen
